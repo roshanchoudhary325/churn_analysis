@@ -59,6 +59,4 @@ The application predicts whether a customer is likely to churn based on the prov
 
 ## Author
 
-**Kanishka Verma**
-
-Artificial Intelligence Intern
+**Roshan Choudhary**
